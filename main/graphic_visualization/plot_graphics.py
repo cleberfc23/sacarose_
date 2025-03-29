@@ -3,15 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def plot_graph_here():
-    # print(data.head())
+def plot_graph(data, title= ""):
+    plt.plot(data.values)
+    plt.title(title)
+    plt.grid()
     print("plot graph")
 
-
-def clebinho(data):
-    print(data.head())
-    print("clebinho")
-
-
-def print_cabeca(data):
-    print(data.head())

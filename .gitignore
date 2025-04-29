@@ -178,3 +178,4 @@ cython_debug/
 *.csv
 *.xml
 *.xlsx
+*.txt

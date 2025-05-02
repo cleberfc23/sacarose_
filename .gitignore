@@ -179,3 +179,6 @@ cython_debug/
 *.xml
 *.xlsx
 *.txt
+
+# z_gen files
+/z_gen

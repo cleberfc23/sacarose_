@@ -181,4 +181,4 @@ cython_debug/
 *.txt
 
 # z_gen files
-/z_gen
+z_gen/
